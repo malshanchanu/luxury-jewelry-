@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\Services\\mockService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\mockService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\StripeIntegration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\StripeIntegration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\ShippingInsurance.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\ShippingInsurance.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaypalIntegration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\PaypalIntegration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentMethod.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\PaymentMethod.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentHistory.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\PaymentHistory.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryInvoice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\JewelryInvoice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryCheckout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\JewelryCheckout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\InsuranceOptions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\InsuranceOptions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationViewer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\CertificationViewer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationUpload.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\CertificationUpload.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificateStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\CertificateStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\GIACertificate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\GIACertificate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationViewer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\CertificationViewer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationUpload.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\CertificationUpload.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AuthenticityVerification.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\AuthenticityVerification.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\StripeIntegration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\StripeIntegration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryCheckout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\JewelryCheckout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\ShippingInsurance.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\ShippingInsurance.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\InsuranceOptions.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\InsuranceOptions.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaypalIntegration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\PaypalIntegration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentMethod.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\PaymentMethod.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentHistory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\PaymentHistory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryInvoice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\payment\\JewelryInvoice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AppraisalDocument.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\AppraisalDocument.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AGSCertificate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\certification\\AGSCertificate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T09:46:20.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-31T11:40:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-31T11:40:51.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-31T11:40:43.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayPalIntegration.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PayPalIntegration.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\PayPalIntegration.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PayPalIntegration.jsx",
+              "RelativeToolTip": "src\\components\\payment\\PayPalIntegration.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-23T06:59:31.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShippingInsurance.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\ShippingInsurance.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\ShippingInsurance.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\ShippingInsurance.jsx",
+              "RelativeToolTip": "src\\components\\payment\\ShippingInsurance.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-25T17:16:06.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mockService.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\Services\\mockService.js",
+              "RelativeDocumentMoniker": "src\\Services\\mockService.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\Services\\mockService.js",
+              "RelativeToolTip": "src\\Services\\mockService.js",
+              "ViewState": "AgIAANIAAAAAAAAAAAAQwO0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-30T11:26:05.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StripeIntegration.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\StripeIntegration.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\StripeIntegration.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\StripeIntegration.jsx",
+              "RelativeToolTip": "src\\components\\payment\\StripeIntegration.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-25T05:08:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentMethod.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentMethod.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\PaymentMethod.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentMethod.jsx",
+              "RelativeToolTip": "src\\components\\payment\\PaymentMethod.jsx",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAIwLIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-23T06:34:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentHistory.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentHistory.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\PaymentHistory.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentHistory.jsx",
+              "RelativeToolTip": "src\\components\\payment\\PaymentHistory.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-25T17:09:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JewelryInvoice.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryInvoice.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\JewelryInvoice.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryInvoice.jsx",
+              "RelativeToolTip": "src\\components\\payment\\JewelryInvoice.jsx",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAQwAYCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-25T17:02:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JewelryCheckout.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryCheckout.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\JewelryCheckout.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryCheckout.jsx",
+              "RelativeToolTip": "src\\components\\payment\\JewelryCheckout.jsx",
+              "ViewState": "AgIAAGoCAAAAAAAAAAAQwIUCAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-23T06:39:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsuranceOptions.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\InsuranceOptions.jsx",
+              "RelativeDocumentMoniker": "src\\components\\payment\\InsuranceOptions.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\InsuranceOptions.jsx",
+              "RelativeToolTip": "src\\components\\payment\\InsuranceOptions.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-25T17:12:37.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CertificationViewer.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationViewer.jsx",
+              "RelativeDocumentMoniker": "src\\components\\certification\\CertificationViewer.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationViewer.jsx",
+              "RelativeToolTip": "src\\components\\certification\\CertificationViewer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-25T17:24:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CertificationUpload.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationUpload.jsx",
+              "RelativeDocumentMoniker": "src\\components\\certification\\CertificationUpload.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationUpload.jsx",
+              "RelativeToolTip": "src\\components\\certification\\CertificationUpload.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-30T10:40:59.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CertificateStyles.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificateStyles.css",
+              "RelativeDocumentMoniker": "src\\components\\certification\\CertificateStyles.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificateStyles.css",
+              "RelativeToolTip": "src\\components\\certification\\CertificateStyles.css",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-26T05:40:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GIACertificate.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\GIACertificate.jsx",
+              "RelativeDocumentMoniker": "src\\components\\certification\\GIACertificate.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\GIACertificate.jsx",
+              "RelativeToolTip": "src\\components\\certification\\GIACertificate.jsx",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-26T05:36:04.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CertificationViewer.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationViewer.css",
+              "RelativeDocumentMoniker": "src\\components\\certification\\CertificationViewer.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationViewer.css",
+              "RelativeToolTip": "src\\components\\certification\\CertificationViewer.css",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAwwOcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T17:25:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CertificationUpload.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationUpload.css",
+              "RelativeDocumentMoniker": "src\\components\\certification\\CertificationUpload.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\CertificationUpload.css",
+              "RelativeToolTip": "src\\components\\certification\\CertificationUpload.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T17:22:51.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StripeIntegration.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\StripeIntegration.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\StripeIntegration.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\StripeIntegration.css",
+              "RelativeToolTip": "src\\components\\payment\\StripeIntegration.css",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T05:08:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JewelryCheckout.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryCheckout.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\JewelryCheckout.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryCheckout.css",
+              "RelativeToolTip": "src\\components\\payment\\JewelryCheckout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-23T07:02:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticityVerification.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AuthenticityVerification.jsx",
+              "RelativeDocumentMoniker": "src\\components\\certification\\AuthenticityVerification.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AuthenticityVerification.jsx",
+              "RelativeToolTip": "src\\components\\certification\\AuthenticityVerification.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-26T05:38:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShippingInsurance.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\ShippingInsurance.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\ShippingInsurance.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\ShippingInsurance.css",
+              "RelativeToolTip": "src\\components\\payment\\ShippingInsurance.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T17:16:36.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InsuranceOptions.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\InsuranceOptions.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\InsuranceOptions.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\InsuranceOptions.css",
+              "RelativeToolTip": "src\\components\\payment\\InsuranceOptions.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T17:13:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PayPalIntegration.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PayPalIntegration.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\PayPalIntegration.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PayPalIntegration.css",
+              "RelativeToolTip": "src\\components\\payment\\PayPalIntegration.css",
+              "ViewState": "AgIAABsBAAAAAAAAAAAAADQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T05:09:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentMethod.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentMethod.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\PaymentMethod.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentMethod.css",
+              "RelativeToolTip": "src\\components\\payment\\PaymentMethod.css",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAwwLsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-23T06:57:02.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentHistory.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentHistory.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\PaymentHistory.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\PaymentHistory.css",
+              "RelativeToolTip": "src\\components\\payment\\PaymentHistory.css",
+              "ViewState": "AgIAADgBAAAAAAAAAAAswFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T17:10:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JewelryInvoice.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryInvoice.css",
+              "RelativeDocumentMoniker": "src\\components\\payment\\JewelryInvoice.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\payment\\JewelryInvoice.css",
+              "RelativeToolTip": "src\\components\\payment\\JewelryInvoice.css",
+              "ViewState": "AgIAAPECAAAAAAAAAAAwwA4DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T17:05:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppraisalDocument.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AppraisalDocument.jsx",
+              "RelativeDocumentMoniker": "src\\components\\certification\\AppraisalDocument.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AppraisalDocument.jsx",
+              "RelativeToolTip": "src\\components\\certification\\AppraisalDocument.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-26T05:37:55.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AGSCertificate.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AGSCertificate.jsx",
+              "RelativeDocumentMoniker": "src\\components\\certification\\AGSCertificate.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\rproject01\\crystalcrown\\src\\components\\certification\\AGSCertificate.jsx",
+              "RelativeToolTip": "src\\components\\certification\\AGSCertificate.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-26T05:36:53.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
